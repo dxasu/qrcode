@@ -1,2 +1,2 @@
-copy from https://github.com/skip2/go-qrcode
+copy from [https://github.com/skip2/go-qrcode](https://github.com/skip2/go-qrcode)
 because of it has failed for go mod tidy
